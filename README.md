@@ -41,7 +41,7 @@ Magento is thankful for any contribution that can improve our code base, documen
 
 ### Labels applied by the Magento team
 We apply labels to public Pull Requests and Issues to help other participants retrieve additional information about current progress, component assignments, Magento release lines, and much more.
-Please review the [Code Contributions guide](https://devdocs.magento.com/guides/v2.3/contributor-guide/contributing.html#labels) for detailed information on labels used in Magento 2 repositories.
+Please review the [Code Contributions guide](https://devdocs.magento.com/guides/v2.3/contributor-guide/contributing.html#labels) for detailed information on labels used in Magento 2 repositories
 
 ## Reporting security issues
 
